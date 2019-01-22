@@ -11,8 +11,8 @@ public class PalindromePermutation {
             boolean result = permutation(str1,str2);
             System.out.println(str1 +", "+ str2 +": "+result);
 
-            System.out.println("Need to do using ASCII code: ");
-            System.out.println("We will do it later");
+            System.out.println("Need to do using ASCII code , We will do it later ");
+            System.out.println();
 
         }
     }

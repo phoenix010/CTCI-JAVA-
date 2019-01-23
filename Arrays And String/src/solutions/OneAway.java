@@ -28,11 +28,12 @@ public class OneAway {
                     if(cnt >1)
                         return false;
                 }
-                else
+//                else
 
 
             }
         }
+        return true;
     }
 }
 

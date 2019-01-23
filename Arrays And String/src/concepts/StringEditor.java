@@ -3,7 +3,8 @@ package concepts;
 public class StringEditor {
     public static void main(String[] args) {
         String str = "qweryuY@12ui4t";
-        System.out.println("Remove all the characters from the above string.Using StringBuilder for editing Strings");
+        System.out.println("Remove all the characters from the above string." +
+                "Using StringBuilder for editing Strings");
 
         StringBuilder sb = new StringBuilder(str);
 
